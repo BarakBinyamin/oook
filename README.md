@@ -1,2 +1,2 @@
 # oook
-A final project for memory centric computing
+Final project for memory centric computing
